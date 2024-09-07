@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ronasap
 -🚀  I’m interested in SAP/ABAP programming, UI5 programming, S4 HANA programming, Gateway &ODATA services
-- 🌱 I’m currently learning ...
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
@@ -8,5 +8,5 @@
 
 <!---
 ronasap/ronasap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 --->
