@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ronasap
+- 👋 Hi, I’m Natalia Rogov
 -🚀  I’m interested in SAP/ABAP programming, UI5 programming, S4 HANA programming, Gateway &ODATA services
 
 - 💞️ I’m looking to collaborate on ...
