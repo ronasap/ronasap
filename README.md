@@ -1,13 +1,8 @@
 - 👋 Hi, I’m Natalia Rogov
--🚀  I’m interested in SAP/ABAP programming, UI5 programming, S4 HANA programming, Gateway &ODATA services,
+-🚀  I’m interested in SAP/ABAP programming, UI5 programming, S4 HANA programming & FIORI, Gateway & ODATA services,
 BTP CLOUD technologies 
 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-ronasap/ronasap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 --->
